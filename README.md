@@ -7,4 +7,5 @@ Obter informações sobre os modelos de carros elétricos mais vendidos no Brasi
 Python 
 Bibliotecas:
 * Pandas
-* 
+* Requests
+* BeautifulSoup 
