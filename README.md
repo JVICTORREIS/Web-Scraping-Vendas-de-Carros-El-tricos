@@ -1,7 +1,7 @@
 ## Web Scraping Vendas de Carros Elétricos 
 
 ### Objetivos Do Projeto:
-
+* Demosntrar a capacidade de adquirir dados da web 
 * Coletar informações sobre os modelos de carros elétricos mais vendidos no Brasil
 * Organizar os dados em um formato acessível para uma análise posterior 
 
